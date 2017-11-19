@@ -4,13 +4,12 @@
   "description": "webpack 多页面生成工具",
   "main": "index.js",
   "scripts": {
-    "start":"webpack",
+    "start": "webpack",
     "dev": "webpack-dev-server"
   },
   "author": "周建",
   "license": "ISC",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
